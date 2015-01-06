@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ComputerRacket()
+comment1.target=void\ act()
+comment2.params=world
+comment2.target=void\ addedToWorld(World)
+comment3.target=void\ move()
+numComments=4

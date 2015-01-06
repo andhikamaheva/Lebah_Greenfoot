@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Court()
+comment1.target=Racket\ getRacket()
+comment2.target=Player\ getPlayer()
+comment3.target=ComputerRacket\ getComputerRacket()
+comment4.target=Ball\ getBall()
+comment5.target=Computer\ getComputer()
+comment6.target=Color\ getCourtColor()
+numComments=7

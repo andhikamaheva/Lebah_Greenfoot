@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Racket()
+comment1.target=void\ act()
+comment2.params=world
+comment2.target=void\ addedToWorld(World)
+comment3.target=void\ move()
+comment4.target=void\ initializeRotation()
+comment5.target=void\ processKeys()
+numComments=6

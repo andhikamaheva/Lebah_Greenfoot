@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Computer()
+comment1.target=GreenfootImage\ getBaby()
+comment2.target=void\ act()
+comment3.params=world
+comment3.target=void\ addedToWorld(World)
+comment4.target=void\ move()
+comment5.target=double\ getOldAccel()
+numComments=6

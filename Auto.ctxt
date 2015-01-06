@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=void\ act()
+comment1.params=world
+comment1.target=void\ addedToWorld(World)
+comment2.target=double\ getBallX()
+comment3.target=double\ getBallY()
+numComments=4
